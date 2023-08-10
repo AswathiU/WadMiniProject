@@ -1,0 +1,19 @@
+body{
+    background-size: cover;
+    font-size:xx-large;
+    align-items: center;
+    vertical-align: middle;
+    padding-top: 200px;
+}
+form{
+    text-align: center;
+}
+.center{
+    margin: auto;
+    width: 60%;
+    border: 3px solid #e8e858;
+    padding: 10px;
+}
+.t1{
+    color: #ffffff;
+}

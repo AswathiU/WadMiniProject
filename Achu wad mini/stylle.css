@@ -1,0 +1,16 @@
+body{
+    background-size: cover;
+    font-size:xx-large;
+    align-items: center;
+    vertical-align: middle;
+    padding-top: 200px;
+}
+form{
+    text-align: center;
+}
+.center{
+    margin: auto;
+    width: 60%;
+    border: 3px solid #fff703;
+    padding: 10px;
+}
